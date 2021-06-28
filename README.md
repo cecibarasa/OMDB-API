@@ -13,7 +13,7 @@ This is a react application that displays movies from the OMDB API and has searc
 ## Set up and Installation
 
 ### Clone this repository
-* `https://github.com/cecibarasa/OMDB-API.git`
+* `git clone https://github.com/cecibarasa/OMDB-API.git`
 
 ### Install dependecies 
 * `run npm i`
