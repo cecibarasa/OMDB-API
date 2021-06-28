@@ -1,4 +1,5 @@
-### OMDB API
+# OMDB API
+This is a react application that displays movies from the OMDB API and has search functionalities.
 
 ## Preview
 ![](landing.png)
